@@ -1,5 +1,0 @@
-Hello everyone
-Welcome to Compiler Design Lab
-LEX and YACC are important
-Compiler Design is interesting
-This is a GREP simulation program
